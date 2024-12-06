@@ -162,7 +162,14 @@ class Calculator:
     def run(self):
         self.window.mainloop()
 
-
+    def trig(self):
+        # to be implemented
+        return
+    
+    def log(self):
+        # Also want to implement log function
+        return 
+    
 if __name__ == "__main__":
     calc = Calculator()
     calc.run()
